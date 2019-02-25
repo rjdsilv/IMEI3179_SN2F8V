@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="jamaica" size="1.000000 1.363426" />
+    <ImageTarget name="ring-ding" size="1.000000 0.592814" />
+    <ImageTarget name="miss-lou-over-the-years" size="1.000000 0.625000" />
+    <ImageTarget name="miss-lou-book-cover" size="1.000000 0.750000" />
+    <ImageTarget name="miss-lou-umbrella" size="1.000000 0.625000" />
+  </Tracking>
+</QCARConfig>
